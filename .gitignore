@@ -1,3 +1,7 @@
 .cartesi
+<<<<<<< HEAD
 /dist
 /node_modules
+=======
+.venv
+>>>>>>> 7556e5fede24b82745c3f448837d97fb0d394f7e
